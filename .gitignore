@@ -1,0 +1,33 @@
+# Ignore virtual environments anywhere
+**/venv/
+**/.venv/
+**/env/
+venv/
+.venv/
+env/
+
+# Ignore Python cache files anywhere
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+__pycache__/
+
+# Ignore environment variables files containing API keys
+**/.env
+.env
+
+# Ignore generated images and outputs
+**/outputs/
+**/*.png
+**/*.jpg
+**/*.jpeg
+outputs/
+*.png
+*.jpg
+*.jpeg
+
+# IDEs and OS metadata files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
