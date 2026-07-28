@@ -10,7 +10,7 @@ By combining the reasoning capabilities of **Google Gemini 2.5 Flash** for promp
 
 Below is a preview of the studio in action, showcasing a generated thumbnail output:
 
-![Application Preview](assets/screenshot.png)
+![Application Preview](assets/preview.png)
 
 ---
 
