@@ -31,3 +31,7 @@ outputs/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Allow assets folder to be tracked
+!assets/
+!assets/*.png
